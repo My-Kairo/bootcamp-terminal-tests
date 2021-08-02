@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/My-Kairo/bootcamp-terminal-tests#readme",
   "dependencies": {
-    "chalk": "^4.1.1"
+    "chalk": "^4.1.1",
+    "mocha": "^9.0.3"
   }
 }
